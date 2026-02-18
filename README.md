@@ -43,9 +43,7 @@ I believe that an exceptional user interface and a robust backend architecture f
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmahiswara1&layout=compact&theme=radium&hide_border=true)](https://github.com/jmahiswara1)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jmahiswara1&theme=radium&hide_border=true)](https://github.com/jmahiswara1)
-
-[![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmahiswara1&theme=radium)](https://github.com/jmahiswara1)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jmahiswara1&theme=github-dark&hide_border=true)](https://github.com/jmahiswara1)
 
 ### Let's Connect!
 - Portfolio: [jmahiswara.my.id](https://jmahiswara.my.id)
