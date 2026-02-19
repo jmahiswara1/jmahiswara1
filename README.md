@@ -36,12 +36,18 @@ I believe that an exceptional user interface and a robust backend architecture f
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23C1E81C?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### GitHub Stats
 
-[![Gadang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmahiswara1&show_icons=true&theme=radium&hide_border=true)](https://github.com/jmahiswara1)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmahiswara1&theme=dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmahiswara1&layout=compact&theme=radium&hide_border=true)](https://github.com/jmahiswara1)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jmahiswara1&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jmahiswara1&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jmahiswara1&theme=github-dark&hide_border=true)](https://github.com/jmahiswara1)
 
