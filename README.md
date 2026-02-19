@@ -8,6 +8,10 @@
 
 I have a strong foundation in full-stack development, and I'm actively seeking internship opportunities. I believe that an exceptional user interface and a robust backend architecture form the best foundation for delivering impactful data insights.
 
+## Let's Connect!
+
+Feel free to reach out if you'd like to collaborate, discuss ideas, or just say hi!
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jmahiswara.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gadangmahiswara)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/j.mahiswara_)
@@ -17,7 +21,7 @@ I have a strong foundation in full-stack development, and I'm actively seeking i
 
 ---
 
-## 🚀 What I'm Currently Focusing On
+## What I'm Currently Focusing On
 
 - **Frontend Craftsmanship:** Deepening my expertise in the React ecosystem to deliver responsive, animation-rich user interfaces.
 - **Backend Engineering:** Designing robust RESTful APIs and comprehensive management dashboards.
@@ -25,7 +29,7 @@ I have a strong foundation in full-stack development, and I'm actively seeking i
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -63,7 +67,7 @@ I have a strong foundation in full-stack development, and I'm actively seeking i
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -77,16 +81,3 @@ I have a strong foundation in full-stack development, and I'm actively seeking i
 </div>
 
 ---
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-Feel free to reach out if you'd like to collaborate, discuss ideas, or just say hi!
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jmahiswara.my.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gadangmahiswara)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/j.mahiswara_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadangjatumahiswara@gmail.com)
-
-</div>
