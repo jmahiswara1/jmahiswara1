@@ -73,9 +73,6 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmahiswara1&theme=dark)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jmahiswara1&theme=dark" width="49%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jmahiswara1&theme=dark" width="49%" />
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jmahiswara1&theme=github-dark&hide_border=true)](https://github.com/jmahiswara1)
 
 </div>
