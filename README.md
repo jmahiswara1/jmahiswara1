@@ -52,7 +52,10 @@ I believe that an exceptional user interface and a robust backend architecture f
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jmahiswara1&theme=github-dark&hide_border=true)](https://github.com/jmahiswara1)
 
 ### Let's Connect!
-- Portfolio: [jmahiswara.my.id](https://jmahiswara.my.id)
-- LinkedIn: [gadangmahiswara](https://www.linkedin.com/in/gadangmahiswara)
-- Instagram: [@j.mahiswara_](https://instagram.com/j.mahiswara_)
-- Email: [gadangjatumahiswara](mailto:gadangjatumahiswara@gmail.com)
+
+<p align="left">
+<a href="https://jmahiswara.my.id" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/gadangmahiswara" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/j.mahiswara_" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:gadangjatumahiswara@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
