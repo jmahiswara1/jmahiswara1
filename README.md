@@ -8,6 +8,8 @@
 
 I have a strong foundation in full-stack web development, and I'm actively seeking internship opportunities. I believe that an exceptional user interface and a robust backend architecture form the best foundation for delivering impactful data insights.
 
+---
+
 ## Let's Connect!
 
 Feel free to reach out if you'd like to collaborate, discuss ideas, or just say hi!
