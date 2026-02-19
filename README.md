@@ -4,11 +4,9 @@
 
 ![GitHub Banner](github-banner.jpg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Data+%26+AI+Explorer;Open+to+Internship+Opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Informatics+Student;React+Enthusiast;Data+%26+AI+Learner;Open+to+Internship+Opportunities!)](https://git.io/typing-svg)
 
-**Informatics Engineering Undergraduate · Universitas Negeri Surabaya**
-
-I have a strong foundation in full-stack development and UI/UX design, and I'm actively seeking internship opportunities in **Data-related roles**. I believe that an exceptional user interface and a robust backend architecture form the best foundation for delivering impactful data insights.
+I have a strong foundation in full-stack development, and I'm actively seeking internship opportunities. I believe that an exceptional user interface and a robust backend architecture form the best foundation for delivering impactful data insights.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jmahiswara.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gadangmahiswara)
