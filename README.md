@@ -23,7 +23,9 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 
 ---
 <div align="center">
+  
 ## What I'm Currently Focusing On
+
 </div>
 - **Frontend Craftsmanship:** Deepening my expertise in the React ecosystem to deliver responsive, animation-rich user interfaces.
 - **Backend Engineering:** Designing robust RESTful APIs and comprehensive management dashboards.
