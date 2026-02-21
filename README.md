@@ -22,18 +22,18 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 </div>
 
 ---
-
+<div align="center">
 ## What I'm Currently Focusing On
-
+</div>
 - **Frontend Craftsmanship:** Deepening my expertise in the React ecosystem to deliver responsive, animation-rich user interfaces.
 - **Backend Engineering:** Designing robust RESTful APIs and comprehensive management dashboards.
 - **Data & AI Initiatives:** Building analytical platforms like the Mining Value Chain Optimization tool powered by Agentic AI.
 
 ---
 
-## Tech Stack & Tools
-
 <div align="center">
+
+## Tech Stack & Tools
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -69,9 +69,9 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 
 ---
 
-## GitHub Stats
-
 <div align="center">
+  
+## GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmahiswara1&theme=dark)
 
