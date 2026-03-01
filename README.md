@@ -4,9 +4,9 @@
 
 ![GitHub Banner](github-banner.jpg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Junior+Full-Stack+Developer;Informatics+Student;React+Enthusiast;Data+%26+AI+Learner;Open+to+Internship+Opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+%26+AI+Learner;Informatics+Student;Junior+Full-Stack+Developer;Open+to+Data+Internships!)](https://git.io/typing-svg)
 
-I have a strong foundation in full-stack web development, and I'm actively seeking internship opportunities. I believe that an exceptional user interface and a robust backend architecture form the best foundation for delivering impactful data insights.
+I have a strong foundation in full-stack web development, and I'm actively seeking **Data-related internship opportunities**. I believe that an exceptional user interface and a robust backend architecture form the best foundation for delivering impactful data insights.
 
 ---
 
@@ -15,13 +15,13 @@ I have a strong foundation in full-stack web development, and I'm actively seeki
 Feel free to reach out if you'd like to collaborate, discuss ideas, or just say hi!
 
 <div align="center">
-  <a href="https://jmahiswara.my.id" target="_blank" rel="noreferrer" title="Portofolio Gadang"><img src="https://skillicons.dev/icons?i=vercel&theme=github-dark" alt="Portofolio Icon" width="48" height="48" /></a>
+  <a href="https://jmahiswara.my.id" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Portfolio" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gadangmahiswara" target="_blank" rel="noreferrer" title="LinkedIn Gadang"><img src="https://skillicons.dev/icons?i=linkedin&theme=github-dark" alt="LinkedIn Icon" width="48" height="48" /></a>
+  <a href="https://www.linkedin.com/in/gadangmahiswara" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/j.mahiswara_" target="_blank" rel="noreferrer" title="Instagram Gadang"><img src="https://skillicons.dev/icons?i=instagram&theme=github-dark" alt="Instagram Icon" width="48" height="48" /></a>
+  <a href="https://instagram.com/j.mahiswara_" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:gadangjatumahiswara@gmail.com" title="Email Gadang"><img src="https://skillicons.dev/icons?i=gmail&theme=github-dark" alt="Email Icon" width="48" height="48" /></a>
+  <a href="mailto:gadangjatumahiswara@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
 </div>
 
 </div>
@@ -43,9 +43,11 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 
 ## Tech Stack & Tools
 
-<a href="https://skillicons.dev" target="_blank" rel="noreferrer" title="Tech Stack Gadang (Hover untuk Daftar Lengkap)">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,php,cpp,html,css,react,nextjs,astro,tailwind,bootstrap,nodejs,express,laravel,nestjs,supabase,postgres,mysql,mongodb,vite,aws,vercel,git,github,figma,postman,swagger&theme=github-dark&perline=10" alt="Ikon Tumpukan Teknologi Gadang" width="48" height="48" />
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,php,react,nextjs,astro,tailwind,bootstrap,nodejs,express,nestjs,laravel,mysql,postgres,mongodb,supabase,vite,git,github,aws,vercel,figma&theme=dark&perline=9" alt="Tech Stack Icons" />
 </a>
+
+*Note: Some tools like Postman, Swagger, GSAP, and Framer Motion are currently omitted as they are not supported by the icon library.*
 
 </div>
 
