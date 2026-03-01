@@ -4,9 +4,9 @@
 
 ![GitHub Banner](github-banner.jpg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+%26+AI+Learner;Informatics+Student;Junior+Full-Stack+Developer;Open+to+Data+Internships!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Junior+Full-Stack+Developer;Informatics+Student;React+Enthusiast;Data+%26+AI+Learner;Open+to+Internship+Opportunities!)](https://git.io/typing-svg)
 
-I have a strong foundation in full-stack web development, and I'm actively seeking **Data-related internship opportunities**. I believe that an exceptional user interface and a robust backend architecture form the best foundation for delivering impactful data insights.
+I have a strong foundation in full-stack web development, and I'm actively seeking internship opportunities. I believe that an exceptional user interface and a robust backend architecture form the best foundation for delivering impactful data insights.
 
 ---
 
@@ -38,8 +38,8 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 
 ## Tech Stack & Tools
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,php,cpp,html,css,react,nextjs,astro,tailwind,bootstrap,nodejs,express,laravel,nestjs,supabase,postgres,mysql,mongodb,vite,aws,vercel,git,github,figma,postman&perline=10" alt="Tech Stack Icons" />
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer" title="Gadang Mahiswara's Tech Stack: TypeScript, JavaScript, Python, PHP, C++, HTML, CSS, React, Next.js, Astro, TailwindCSS, Bootstrap, Node.js, Express.js, Laravel, NestJS, Supabase, PostgreSQL, MySQL, MongoDB, Vite, AWS, Vercel, Git, GitHub, Figma, Postman, Swagger">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,php,cpp,html,css,react,nextjs,astro,tailwind,bootstrap,nodejs,express,laravel,nestjs,supabase,postgres,mysql,mongodb,vite,aws,vercel,git,github,figma,postman,swagger&theme=github-dark&perline=10" alt="Tech Stack Icons" />
 </a>
 
 </div>
