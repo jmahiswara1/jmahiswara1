@@ -14,10 +14,15 @@ I have a strong foundation in full-stack web development, and I'm actively seeki
 
 Feel free to reach out if you'd like to collaborate, discuss ideas, or just say hi!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jmahiswara.my.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gadangmahiswara)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/j.mahiswara_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadangjatumahiswara@gmail.com)
+<div align="center">
+  <a href="https://jmahiswara.my.id" target="_blank" rel="noreferrer" title="Portofolio Gadang"><img src="https://skillicons.dev/icons?i=vercel&theme=github-dark" alt="Portofolio Icon" width="48" height="48" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gadangmahiswara" target="_blank" rel="noreferrer" title="LinkedIn Gadang"><img src="https://skillicons.dev/icons?i=linkedin&theme=github-dark" alt="LinkedIn Icon" width="48" height="48" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/j.mahiswara_" target="_blank" rel="noreferrer" title="Instagram Gadang"><img src="https://skillicons.dev/icons?i=instagram&theme=github-dark" alt="Instagram Icon" width="48" height="48" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:gadangjatumahiswara@gmail.com" title="Email Gadang"><img src="https://skillicons.dev/icons?i=gmail&theme=github-dark" alt="Email Icon" width="48" height="48" /></a>
+</div>
 
 </div>
 
@@ -38,8 +43,8 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 
 ## Tech Stack & Tools
 
-<a href="https://skillicons.dev" target="_blank" rel="noreferrer" title="Gadang Mahiswara's Tech Stack: TypeScript, JavaScript, Python, PHP, C++, HTML, CSS, React, Next.js, Astro, TailwindCSS, Bootstrap, Node.js, Express.js, Laravel, NestJS, Supabase, PostgreSQL, MySQL, MongoDB, Vite, AWS, Vercel, Git, GitHub, Figma, Postman, Swagger">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,php,cpp,html,css,react,nextjs,astro,tailwind,bootstrap,nodejs,express,laravel,nestjs,supabase,postgres,mysql,mongodb,vite,aws,vercel,git,github,figma,postman,swagger&theme=github-dark&perline=10" alt="Tech Stack Icons" />
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer" title="Tech Stack Gadang (Hover untuk Daftar Lengkap)">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,php,cpp,html,css,react,nextjs,astro,tailwind,bootstrap,nodejs,express,laravel,nestjs,supabase,postgres,mysql,mongodb,vite,aws,vercel,git,github,figma,postman,swagger&theme=github-dark&perline=10" alt="Ikon Tumpukan Teknologi Gadang" width="48" height="48" />
 </a>
 
 </div>
