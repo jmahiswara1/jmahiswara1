@@ -44,10 +44,8 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 ## Tech Stack & Tools
 
 <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,php,react,nextjs,astro,tailwind,bootstrap,nodejs,express,nestjs,laravel,mysql,postgres,mongodb,supabase,vite,vscode,git,github,aws,vercel,figma&theme=dark&perline=9" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,php,react,nextjs,astro,vite,tailwind,bootstrap,nodejs,express,nestjs,laravel,mysql,postgres,mongodb,supabase,vscode,git,github,postman,ubuntu,aws,vercel,figma&theme=dark&perline=9" alt="Tech Stack Icons" />
 </a>
-
-*Note: Some tools like Postman, Swagger, GSAP, and Framer Motion are currently omitted as they are not supported by the icon library.*
 
 </div>
 
