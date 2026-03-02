@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Informatics+Student;Junior+Full-Stack+Developer;Open+to+Data+Internships!)](https://git.io/typing-svg)
 
-I have a strong foundation in full-stack web development, and I'm actively seeking **Data-related internship opportunities**. I believe that an exceptional user interface and a robust backend architecture form the best foundation for delivering impactful data insights.
+I have a strong foundation in full-stack web development, and I'm actively seeking **internship opportunities**.
 
 ---
 
