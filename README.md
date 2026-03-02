@@ -4,7 +4,7 @@
 
 ![GitHub Banner](github-banner.jpg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+%26+AI+Learner;Informatics+Student;Junior+Full-Stack+Developer;Open+to+Data+Internships!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Informatics+Student;Junior+Full-Stack+Developer;Open+to+Data+Internships!)](https://git.io/typing-svg)
 
 I have a strong foundation in full-stack web development, and I'm actively seeking **Data-related internship opportunities**. I believe that an exceptional user interface and a robust backend architecture form the best foundation for delivering impactful data insights.
 
@@ -35,7 +35,6 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 
 - **Frontend Craftsmanship:** Deepening my expertise in the React ecosystem to deliver responsive, animation-rich user interfaces.
 - **Backend Engineering:** Designing robust RESTful APIs and comprehensive management dashboards.
-- **Data & AI Initiatives:** Building analytical platforms like the Mining Value Chain Optimization tool powered by Agentic AI.
 
 ---
 
