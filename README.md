@@ -46,8 +46,6 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmahiswara1&theme=dark)
 
-![jmahiswara1's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmahiswara1&show_icons=true&theme=dark)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jmahiswara1&theme=github-dark&hide_border=true)](https://github.com/jmahiswara1)
 
 </div>
