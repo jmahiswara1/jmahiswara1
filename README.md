@@ -33,7 +33,7 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or just say 
 ## Tech Stack & Tools
 
 <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,react,nextjs,vite,tailwind,nodejs,express,laravel,mysql,postgres,supabase,vscode,github,postman,figma&theme=dark&perline=9" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,react,nextjs,vite,tailwind,nodejs,express,laravel,mysql,postgres,supabase,github,postman&theme=dark&perline=9" alt="Tech Stack Icons" />
 </a>
 
 </div>
