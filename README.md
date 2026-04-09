@@ -6,7 +6,7 @@
   
 **Gadang Jatu Mahiswara**
 
-Informatics Student & Junior Full-Stack Developer — actively seeking **internship opportunities**
+Informatics Student & Junior Full-Stack Developer, actively seeking **internship opportunities**
 
 ![Available](https://img.shields.io/badge/status-available%20for%20hire-4ade80?style=flat-square)
 ![Focus](https://img.shields.io/badge/focus-full--stack%20%7C%20AI-58A6FF?style=flat-square)
@@ -33,9 +33,7 @@ Informatics Student & Junior Full-Stack Developer — actively seeking **interns
 
 ## About Me
 
-Hi! I'm **Gadang**, an Informatics student with a strong foundation in **full-stack web development**. I enjoy building end-to-end web applications — from designing clean, responsive UIs to architecting scalable backend systems.
-
-Currently interning and diving deep into **Generative AI** — working on an **LLM RAG Chatbot** project that combines retrieval-augmented generation with real-world data. I'm actively learning the Gen AI ecosystem alongside my frontend work.
+Hi! I'm **Gadang**, an Informatics student with a strong foundation in **full-stack web development**. I enjoy building end-to-end web applications — from designing clean, responsive UIs to architecting scalable backend systems. I'm actively learning the Gen AI ecosystem.
 
 - 🎓 Informatics student, passionate about web & AI
 - 🤖 Currently interning — AI & Frontend Intern
@@ -49,46 +47,6 @@ Currently interning and diving deep into **Generative AI** — working on an **L
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Pinecone](https://img.shields.io/badge/Vector%20DB-Pinecone%20·%20Chroma-7C3AED?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG%20Architecture-orange?style=flat-square)
-
----
-
-## Featured Projects
-
-### ◆ Xera Outdoor
-> Solo · Fullstack Developer · 2026
-
-Platform penyewaan perlengkapan outdoor premium berbasis web. Dilengkapi katalog interaktif, keranjang belanja, pelacakan order flow, manajemen stok otomatis, dan CMS Admin Dashboard — dengan desain earth-tone premium.
-
-**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · Supabase · PostgreSQL · Cloudinary · Framer Motion · GSAP · Lucide React
-
-[![Demo](https://img.shields.io/badge/live-demo-58A6FF?style=flat-square)](https://xeraoutdoor.vercel.app/)
-[![Source](https://img.shields.io/badge/source-github-gray?style=flat-square)](https://github.com/jmahiswara1/rental-outdoor)
-
----
-
-### ◆ Minexia Optimize
-> Fullstack · Data & AI
-
-Platform Mining Supply Chain Optimization berbasis AI untuk mengoptimalkan rantai pasok pertambangan secara end-to-end.
-
-**Stack:** Next.js · Express.js · PostgreSQL
-
-[![Demo](https://img.shields.io/badge/live-demo-58A6FF?style=flat-square)](https://minexia-optimize.vercel.app/)
-![Private](https://img.shields.io/badge/repo-private-gray?style=flat-square)
-
----
-
-### ◆ Pojok Foto
-> Fullstack · Neobrutalist Design
-
-Aplikasi Photo Booth berbasis web dengan desain Neobrutalis. Pengguna bisa mengambil foto, memilih frame, filter, dan stiker langsung di browser — tanpa install apapun.
-
-**Stack:** Next.js · Express.js · PostgreSQL
-
-[![Demo](https://img.shields.io/badge/live-demo-58A6FF?style=flat-square)](https://pojok-foto.vercel.app/)
-![Private](https://img.shields.io/badge/repo-private-gray?style=flat-square)
-
-> More at [github.com/jmahiswara1](https://github.com/jmahiswara1)
 
 ---
 
