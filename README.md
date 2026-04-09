@@ -64,7 +64,7 @@ Hi! I'm **Gadang**, an Informatics student with a strong foundation in **full-st
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jmahiswara1&theme=github-dark&hide_border=true)](https://github.com/jmahiswara1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmahiswara1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmahiswara1&layout=compact&theme=github_dark&cache_seconds=86400)
 
 ---
 
