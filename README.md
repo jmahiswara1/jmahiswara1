@@ -30,8 +30,9 @@ Informatics Student & Junior Full-Stack Developer, actively seeking **internship
 </div>
 
 ---
-
+<div align="center">
 ## About Me
+</div>
 
 Hi! I'm **Gadang**, an Informatics student with a strong foundation in **full-stack web development**. I enjoy building end-to-end web applications — from designing clean, responsive UIs to architecting scalable backend systems. I'm actively learning the Gen AI ecosystem.
 
@@ -39,14 +40,6 @@ Hi! I'm **Gadang**, an Informatics student with a strong foundation in **full-st
 - 🤖 Currently interning — AI & Frontend Intern
 - 🛠️ Comfortable across the full stack — frontend to backend to deployment
 - 💼 Open to internship & collaboration opportunities
-
-**Currently learning:**
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Vector%20DB-Pinecone%20·%20Chroma-7C3AED?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG%20Architecture-orange?style=flat-square)
 
 ---
 
