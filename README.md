@@ -31,7 +31,9 @@ Informatics Student & Junior Full-Stack Developer, actively seeking **internship
 
 ---
 <div align="center">
+  
 ## About Me
+
 </div>
 
 Hi! I'm **Gadang**, an Informatics student with a strong foundation in **full-stack web development**. I enjoy building end-to-end web applications — from designing clean, responsive UIs to architecting scalable backend systems. I'm actively learning the Gen AI ecosystem.
