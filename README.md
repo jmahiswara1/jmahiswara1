@@ -6,7 +6,7 @@
   
 **Gadang Jatu Mahiswara**
 
-Informatics Student & Junior Full-Stack Developer, actively seeking **internship opportunities**
+Informatics Student & Full-Stack Developer, actively seeking **internship opportunities**
 
 ![Available](https://img.shields.io/badge/status-available%20for%20hire-4ade80?style=flat-square)
 ![Focus](https://img.shields.io/badge/focus-full--stack%20%7C%20AI-58A6FF?style=flat-square)
