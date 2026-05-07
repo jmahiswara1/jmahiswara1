@@ -11,7 +11,7 @@ Informatics Student & Full-Stack Developer, actively seeking **internship opport
 ![Available](https://img.shields.io/badge/status-available%20for%20hire-4ade80?style=flat-square)
 ![Focus](https://img.shields.io/badge/focus-full--stack%20%7C%20AI-58A6FF?style=flat-square)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Informatics+Student;Junior+Full-Stack+Developer;AI+Learner;Open+to+Internships!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Informatics+Student;Full-Stack+Developer;AI+Learner;Open+to+Internships!)](https://git.io/typing-svg)
 
 </div>
 
