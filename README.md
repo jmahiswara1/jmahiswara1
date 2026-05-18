@@ -57,8 +57,6 @@ Hi! I'm **Gadang**, an Informatics student with a strong foundation in **full-st
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmahiswara1&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jmahiswara1&theme=github-dark&hide_border=true)](https://github.com/jmahiswara1)
-
 [![Top Langs-Dark](https://custom-github-readme-stats.vercel.app/api/top-langs/?username=jmahiswara1&layout=compact&theme=slateorange&bg_color=00000000&hide=jupyter%20notebook#gh-dark-mode-only)](https://github.com/jmahiswara1#gh-dark-mode-only)
 [![Top Langs-Light](https://custom-github-readme-stats.vercel.app/api/top-langs/?username=jmahiswara1&layout=compact&theme=buefy&bg_color=00000000&hide=jupyter%20notebook#gh-light-mode-only)](https://github.com/jmahiswara1#gh-light-mode-only)
 [![GitHub stats-Dark](https://custom-github-readme-stats.vercel.app/api?username=jmahiswara1&show_icons=true&theme=slateorange&bg_color=00000000&hide_title=true#gh-dark-mode-only)](https://github.com/jmahiswara1#gh-dark-mode-only)
