@@ -6,7 +6,11 @@
   
 **Gadang Jatu Mahiswara**
 
-Informatics Student & Full-Stack Developer, actively seeking **internship opportunities**
+I'm an Informatics student interested in full-stack web development and AI.
+
+I enjoy building web applications, from responsive user interfaces to backend systems, REST APIs, and database features. I am currently gaining experience as an AI and Frontend Intern while continuing to improve my skills in modern web technologies, clean code, and Git-based collaboration.
+
+I am open to internship opportunities, collaborations, and projects where I can contribute to building useful and user-centered digital products.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Informatics+Student;Full-Stack+Developer;AI+Learner;Open+to+Internships!)](https://git.io/typing-svg)
 
@@ -23,19 +27,6 @@ Informatics Student & Full-Stack Developer, actively seeking **internship opport
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/j.mahiswara_)
 &nbsp;&nbsp;
 [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:gadangjatumahiswara@gmail.com)
-
-</div>
-
----
-<div align="center">
-  
-## About Me
-
-Hi! I'm Gadang, an Informatics student interested in full-stack web development and AI.
-
-I enjoy building web applications, from responsive user interfaces to backend systems, REST APIs, and database features. I am currently gaining experience as an AI and Frontend Intern while continuing to improve my skills in modern web technologies, clean code, and Git-based collaboration.
-
-I am open to internship opportunities, collaborations, and projects where I can contribute to building useful and user-centered digital products.
 
 </div>
 
