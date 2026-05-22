@@ -1,8 +1,6 @@
 <div align="center">
-
-## Hi there! 👋
-
-<div>
+  <img src="./banner.jpg" alt="jmahiswara's banner" width="100%" />
+</div>
   
 **Gadang Jatu Mahiswara**
 
