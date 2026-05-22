@@ -43,12 +43,23 @@
 
 ## GitHub Stats
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmahiswara1&theme=dark)
+<div align="center">
 
-[![Top Langs-Dark](https://custom-github-readme-stats.vercel.app/api/top-langs/?username=jmahiswara1&layout=compact&theme=slateorange&bg_color=00000000&hide=jupyter%20notebook#gh-dark-mode-only)](https://github.com/jmahiswara1#gh-dark-mode-only)
-[![Top Langs-Light](https://custom-github-readme-stats.vercel.app/api/top-langs/?username=jmahiswara1&layout=compact&theme=buefy&bg_color=00000000&hide=jupyter%20notebook#gh-light-mode-only)](https://github.com/jmahiswara1#gh-light-mode-only)
-[![GitHub stats-Dark](https://custom-github-readme-stats.vercel.app/api?username=jmahiswara1&show_icons=true&theme=slateorange&bg_color=00000000&hide_title=true#gh-dark-mode-only)](https://github.com/jmahiswara1#gh-dark-mode-only)
-[![GitHub stats-Light](https://custom-github-readme-stats.vercel.app/api?username=jmahiswara1&show_icons=true&theme=buefy&bg_color=00000000&hide_title=true#gh-light-mode-only)](https://github.com/jmahiswara1#gh-light-mode-only)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jmahiswara1&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmahiswara1&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&border_color=30363d" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jmahiswara1&theme=dark&hide_border=true&background=00000000&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+
+<img src="https://raw.githubusercontent.com/jmahiswara1/jmahiswara1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
