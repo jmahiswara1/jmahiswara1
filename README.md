@@ -45,15 +45,11 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jmahiswara1&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmahiswara1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmahiswara1&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&border_color=30363d" />
-
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmahiswara1&layout=compact&theme=github_dark&hide_border=true" />
 
 <br/>
-
-<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=jmahiswara1&theme=dark&hide_border=true&background=00000000&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
 
