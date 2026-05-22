@@ -51,9 +51,9 @@
 
 ---
 
-## GitHub Stats
-
 <div align="center">
+
+## GitHub Stats
 
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmahiswara1&theme=dark" alt="Profile Details" />
 
