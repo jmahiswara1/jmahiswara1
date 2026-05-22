@@ -37,7 +37,7 @@
 
 ## Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,react,nextjs,vite,tailwind,nodejs,express,laravel,mysql,postgres,mongodb,supabase,vscode,git,github,postman,ubuntu,vercel,figma&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,react,nextjs,vite,tailwind,nodejs,express,laravel,mysql,postgres,git,github,postman,ubuntu,figma&theme=dark&perline=9" />
 
 </div>
 
