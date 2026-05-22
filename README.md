@@ -45,13 +45,25 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmahiswara1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmahiswara1&theme=dark" alt="Profile Details" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmahiswara1&layout=compact&theme=github_dark&hide_border=true" />
+<br/><br/>
 
-<br/>
+<a href="https://github.com/jmahiswara1#gh-dark-mode-only">
+  <img width="49%" src="https://custom-github-readme-stats.vercel.app/api?username=jmahiswara1&show_icons=true&theme=slateorange&bg_color=00000000&hide_title=true#gh-dark-mode-only" alt="GitHub Stats Dark" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=jmahiswara1&theme=dark&hide_border=true&background=00000000&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+<a href="https://github.com/jmahiswara1#gh-dark-mode-only">
+  <img width="49%" src="https://custom-github-readme-stats.vercel.app/api/top-langs/?username=jmahiswara1&layout=compact&theme=slateorange&bg_color=00000000&hide=jupyter%20notebook#gh-dark-mode-only" alt="Top Languages Dark" />
+</a>
+
+<a href="https://github.com/jmahiswara1#gh-light-mode-only">
+  <img width="49%" src="https://custom-github-readme-stats.vercel.app/api?username=jmahiswara1&show_icons=true&theme=buefy&bg_color=00000000&hide_title=true#gh-light-mode-only" alt="GitHub Stats Light" />
+</a>
+
+<a href="https://github.com/jmahiswara1#gh-light-mode-only">
+  <img width="49%" src="https://custom-github-readme-stats.vercel.app/api/top-langs/?username=jmahiswara1&layout=compact&theme=buefy&bg_color=00000000&hide=jupyter%20notebook#gh-light-mode-only" alt="Top Languages Light" />
+</a>
 
 <img src="https://raw.githubusercontent.com/jmahiswara1/jmahiswara1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
