@@ -2,29 +2,32 @@
   <img src="./banner.jpg" alt="jmahiswara's banner" width="100%" />
 </div>
   
-**Gadang Jatu Mahiswara**
+<div align="center">
 
-I'm an Informatics student interested in full-stack web development and AI.
+# Gadang Jatu Mahiswara
 
-I enjoy building web applications, from responsive user interfaces to backend systems, REST APIs, and database features. I am currently gaining experience as an AI and Frontend Intern while continuing to improve my skills.
+### Fullstack Developer | Informatics Student | AI Learner
 
-I am open to internship opportunities, collaborations, and projects where I can contribute to building useful and user-centered digital products.
+<p>
+  I enjoy building web applications, from responsive user interfaces to backend systems, REST APIs, and database features.
+  I am currently gaining experience as an AI and Frontend Intern while continuing to improve my skills.
+  I am open to internship opportunities, collaborations, and projects where I can contribute to building useful and user-centered digital products.
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Informatics+Student;Full-Stack+Developer;AI+Learner;Open+to+Internships!)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## Let's Connect!
-
-[![Portfolio](https://skillicons.dev/icons?i=vercel&theme=dark)](https://jmahiswara.my.id)
-&nbsp;&nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/gadangmahiswara)
-&nbsp;&nbsp;
-[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/j.mahiswara_)
-&nbsp;&nbsp;
-[![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:gadangjatumahiswara@gmail.com)
+<p>
+  <a href="mailto:gadangjatumahiswara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/gadangmahiswara">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/j.mahiswara_">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://jmahiswara.my.id">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
