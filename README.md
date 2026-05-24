@@ -56,21 +56,13 @@
 ## GitHub Stats
 
   <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://jmahiswara-stats.vercel.app/api/activity">
-      <img src="https://jmahiswara-stats.vercel.app/api/activity" alt="Activity">
-    </picture>
+    <img src="https://jmahiswara-stats.vercel.app/api/activity?v=1" alt="Activity">
   </p>
 
   <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://jmahiswara-stats.vercel.app/api/stats">
-      <img src="https://jmahiswara-stats.vercel.app/api/stats" alt="Statistics">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://jmahiswara-stats.vercel.app/api/languages">
-      <img src="https://jmahiswara-stats.vercel.app/api/languages" alt="Languages">
-    </picture>
+    <img src="https://jmahiswara-stats.vercel.app/api/stats?v=1" alt="Stats">
+    &nbsp;
+    <img src="https://jmahiswara-stats.vercel.app/api/languages?v=1" alt="Languages">
   </p>
 
 </div>
