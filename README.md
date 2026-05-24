@@ -55,9 +55,23 @@
 
 ## GitHub Stats
 
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmahiswara1&theme=dark" alt="Profile Details" />
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://jmahiswara-stats.vercel.app/api/activity">
+      <img src="https://jmahiswara-stats.vercel.app/api/activity" alt="Activity">
+    </picture>
+  </p>
 
-<img src="https://raw.githubusercontent.com/jmahiswara1/jmahiswara1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://jmahiswara-stats.vercel.app/api/stats">
+      <img src="https://jmahiswara-stats.vercel.app/api/stats" alt="Statistics">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://jmahiswara-stats.vercel.app/api/languages">
+      <img src="https://jmahiswara-stats.vercel.app/api/languages" alt="Languages">
+    </picture>
+  </p>
 
 </div>
 
