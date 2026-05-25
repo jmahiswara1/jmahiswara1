@@ -62,11 +62,7 @@
   <p align="center">
     <img src="https://jmahiswara-stats.vercel.app/api/stats?v=3" alt="Stats" height="300">
     &nbsp;
-    <img src="https://jmahiswara-stats.vercel.app/api/languages?v=3&metric=commits" alt="Languages by commits" height="300">
-  </p>
-
-  <p align="center">
-    <img src="https://jmahiswara-stats.vercel.app/api/languages?v=3&metric=filesize" alt="Languages by file size" height="300">
+    <img src="https://jmahiswara-stats.vercel.app/api/languages?v=3" alt="Languages" height="300">
   </p>
 
 </div>
