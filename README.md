@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://jmahiswara.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
