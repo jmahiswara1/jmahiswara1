@@ -37,11 +37,11 @@
 
 ## Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,php,react,nextjs,vite,tailwind,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,react,nextjs,vite,tailwind&theme=dark" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=express,laravel,mysql,postgres,git,github,postman,ubuntu,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,postgres,git,github,postman&theme=dark" />
 
 </div>
 
