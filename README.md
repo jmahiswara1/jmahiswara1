@@ -6,7 +6,7 @@
 
 # Gadang Jatu Mahiswara
 
-### Fullstack Developer | Informatics Student | AI Learner
+### Fullstack Developer | Informatics Student | AI Enthusiast
 
 <p>
   I enjoy building web applications, from responsive user interfaces to backend systems, REST APIs, and database features.
