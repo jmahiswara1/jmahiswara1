@@ -41,7 +41,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,,postgres,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,git,github&theme=dark" />
 
 </div>
 
